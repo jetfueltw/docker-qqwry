@@ -3,5 +3,10 @@
 https://github.com/freshcn/qqwry  
 v1.0.4
 
-https://github.com/out0fmemory/qqwry.dat  
-2022-04-20
+https://github.com/FW27623/qqwry  
+2023-11-22
+
+```
+docker build -t jetfueltw/qqwry:latest .
+docker run --rm -p 8000:2060 jetfueltw/qqwry:latest
+```
